@@ -43,7 +43,7 @@ pip install Flask numpy scikit-learn nltk
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/fake-news-prediction.git
+    git clone https://github.com/Pahinithi/Fake-News-Predictionusing-Machine-Learning
     cd fake-news-prediction
     ```
 
